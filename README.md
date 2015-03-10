@@ -18,10 +18,27 @@ $ newrelic-deployments .
 
 For conviniece, it's recommeded to use it as `git-push` hook.
 
-### Parameters
+### Options
 
+TDB.
 
 ## Using as Library
+
+Install package locally,
+
+```bash
+$ npm install --save newrelic-deployments
+```
+
+In your main module, at the top (or right after `require('newrelic')`),
+
+```js
+require('newrelic-deployments')
+```
+
+### Options
+
+TDB.
 
 # License
 
