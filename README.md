@@ -1,4 +1,4 @@
-# New Relic Deployments support for Node.js
+# New Relic Deployments for Node.js
 
 Command-line utility and library for [New Relic]() deployments.
 
