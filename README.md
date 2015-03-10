@@ -1,6 +1,6 @@
 # New Relic Deployments for Node.js
 
-Command-line utility and library for [New Relic]() deployments.
+Command-line utility and library for [New Relic](https://docs.newrelic.com/docs/apm/new-relic-apm/maintenance/setting-deployment-notifications) deployments.
 
 ## Using as CLI
 
